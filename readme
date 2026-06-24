@@ -1,0 +1,20 @@
+# The Worm Project
+
+The Worm Project is a long-term artificial life experiment exploring whether intelligence can emerge from survival, memory, learning, adaptation, and evolution.
+
+## Day 1
+
+Features:
+- Worm class
+- Energy system
+- Aging system
+- Death system
+- Random actions
+- Multi-worm simulation
+
+Future goals:
+- Environment
+- Food locations
+- Memory
+- Learning
+- Evolution
